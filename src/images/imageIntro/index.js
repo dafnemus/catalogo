@@ -1,8 +1,9 @@
-import feminismo from '../imageIntro/feminismo.svg';
+/* eslint-disable comma-dangle */
+import feminismo from './feminismo.svg';
 
 const imageIntro = {
   id: 0,
-  title: "feminismo",
+  title: 'feminismo',
   url: feminismo,
 };
 

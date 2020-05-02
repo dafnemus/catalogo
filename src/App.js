@@ -1,11 +1,10 @@
 import React from 'react';
-import Portada from './portada'
+
+import Portada from './portada';
 import './App.css';
 
 function App() {
-  return (
-  <Portada/>
-  );
+  return <Portada />;
 }
 
 export default App;
