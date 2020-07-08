@@ -7,7 +7,7 @@ import style from './style.module.scss';
 
 function Portada() {
   return (
-    <div className={style.container}>
+    <div className={style.continer}>
       <TextPortada text="Catálogo Filosofía Feminista" />
       <Simbolo />
     </div>
